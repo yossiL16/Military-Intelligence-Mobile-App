@@ -144,3 +144,58 @@ body {
 .icon {
     background:rgba(255, 255, 255, 0.158);
 }
+
+
+.cards {
+    background: #0D0D11;
+    height: 200px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.card {
+    background-color: #16121E;
+    height: 150PX;
+    width: 400PX;
+    border-radius: 30PX;
+}
+
+.up {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 20px;
+    margin-top: 5px;
+    margin-right: 20px;
+}
+
+.redd {
+    border: 1px solid #882E4F;
+    color: #882E4F;
+    border-radius: 20px;
+}
+
+.or {
+    border: 1px solid #f3bd0b;
+    color: #f3bd0b;
+    border-radius: 20px;
+}
+
+
+.gree {
+        border: 1px solid #2bf511;
+    color: #2bf511;
+    border-radius: 20px;
+}
+
+.t {
+    color: class="t";
+}
+
+.med {
+    margin-top: 15px;
+    font-size: 20px;
+    margin-left: 5px;
+}
+
+
